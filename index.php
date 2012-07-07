@@ -58,15 +58,15 @@
               <li <?php if($id ==1) echo 'class="active"'; ?> ><a href="?id=1">RinconUnited</a></li>
               <li <?php if($id ==2) echo 'class="active"'; ?> ><a href="?id=2">MusicAndGol</a></li>
               <li <?php if($id ==3) echo 'class="active"'; ?> ><a href="?id=3">Granada</a></li>
-			  <li <?php if($id ==4) echo 'class="active"'; ?> ><a href="?id=3">Trabel</a></li>
-			  <li <?php if($id ==5) echo 'class="active"'; ?> ><a href="?id=3">Beats</a></li>
-			  <li <?php if($id ==6) echo 'class="active"'; ?> ><a href="?id=3">CineE</a></li>
-			  <li <?php if($id ==7) echo 'class="active"'; ?> ><a href="?id=3">ConstruyendoE</a></li>
-			  <li <?php if($id ==8) echo 'class="active"'; ?> ><a href="?id=3">ComplementoF</a></li>
-			  <li <?php if($id ==9) echo 'class="active"'; ?> ><a href="?id=3">DriveR</a></li>
-			  <li <?php if($id ==10) echo 'class="active"'; ?> ><a href="?id=3">OnceI</a></li>
-			  <li <?php if($id ==11) echo 'class="active"'; ?> ><a href="?id=3">Anfield</a></li>
-			  <li <?php if($id ==12) echo 'class="active"'; ?> ><a href="?id=3">Endorfina</a></li>
+			  <li <?php if($id ==4) echo 'class="active"'; ?> ><a href="?id=4">Trabel</a></li>
+			  <li <?php if($id ==5) echo 'class="active"'; ?> ><a href="?id=5">Beats</a></li>
+			  <li <?php if($id ==6) echo 'class="active"'; ?> ><a href="?id=6">CineE</a></li>
+			  <li <?php if($id ==7) echo 'class="active"'; ?> ><a href="?id=7">ConstruyendoE</a></li>
+			  <li <?php if($id ==8) echo 'class="active"'; ?> ><a href="?id=8">ComplementoF</a></li>
+			  <li <?php if($id ==9) echo 'class="active"'; ?> ><a href="?id=9">DriveR</a></li>
+			  <li <?php if($id ==10) echo 'class="active"'; ?> ><a href="?id=10">OnceI</a></li>
+			  <li <?php if($id ==11) echo 'class="active"'; ?> ><a href="?id=11">Anfield</a></li>
+			  <li <?php if($id ==12) echo 'class="active"'; ?> ><a href="?id=12">Endorfina</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
