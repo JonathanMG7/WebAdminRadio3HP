@@ -1,0 +1,18 @@
+.tw{
+/*	display: inline-block;
+	border:solid thin gray;*/
+	float:left;
+	margin:0 10px 10px 0;
+	min-height:50px;
+	width:32%;
+}
+#contenedor{
+	border:solid thin red;
+	width:85%;
+	margin:0 auto;
+	overflow:hidden;
+}
+.tw > div{
+	margin:0 auto;
+	width:250px;
+}
